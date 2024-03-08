@@ -1,8 +1,8 @@
-# Big-Data-powered-Vietnamese-Hate-Speech-Detection-A-Kafka---Deep-Learning-Approach
+# Big Data-powered Vietnamese Hate Speech Detection: A Kafka - Deep Learning Approach
 
 ## Abstract
 
-In this research, we have developed a Kafka-based system aimed at detecting hate speech within live videos streamed on the YouTube platform. The system comprises two main components: offline and online. In the offline component, we conducted experiments with various Machine Learning and Deep Learning models, utilizing two datasets to determine the most effective model. Moving on to the online component, comments from the chat box of live YouTube videos are systematically crawled, and the model predicts whether each comment should be classified as hate speech or clean. Subsequently, we label and evaluate these comments to enhance the model's performance, particularly when it encounters misclassifications. This two-fold approach ensures a robust and adaptive system for the real-time detection of hate speech in the dynamic environment of live video streams on YouTube.
+In this research, we have developed a Kafka-based system aimed at detecting hate speech within live videos streamed on the YouTube platform. The system comprises two main components: offline and online. In the offline component, we conducted experiments with various Machine Learning and Deep Learning models, utilizing two datasets to determine the most effective model for hate speech detection task. Moving on to the online component, comments from the chat box of live YouTube videos are systematically crawled, and the model predicts whether each comment should be classified as hate speech or clean. Subsequently, we label and evaluate these comments to enhance the model's performance, particularly when it encounters misclassifications. This two-fold approach ensures a robust and adaptive system for the real-time detection of hate speech in the dynamic environment of live video streams on YouTube.
 
 ## Usage
 
