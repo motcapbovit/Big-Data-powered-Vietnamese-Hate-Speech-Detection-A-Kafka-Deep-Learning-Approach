@@ -19,7 +19,7 @@ On the other hand, the "Kafka_Deep_Learning" file serves the purpose of establis
 <img width="500" alt="image" src="https://github.com/motcapbovit/Big-Data-powered-Vietnamese-Hate-Speech-Detection-A-Kafka-Deep-Learning-Approach/assets/72774923/e3944f38-9dec-4f5b-89a6-7bbf5dcdb5d4">
 
 ## Contact
-Chi Thanh Dang, [Thuy Hong Thi Dang](https://github.com/KaytlynDangDS) and Van Nguyen Dinh
+[Chi Thanh Dang](https://github.com/motcapbovit), [Thuy Hong Thi Dang](https://github.com/KaytlynDangDS) and Van Nguyen Dinh
 
 Faculty of Information Science and Engineering, University of Information Technology, Vietnam National University, Ho Chi Minh City, Vietnam.
 
